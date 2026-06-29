@@ -1,0 +1,333 @@
+canonical_identifier: bkk:krp/KR3eu059/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eu059/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 針學通論
+  identifiers:
+    krp: KR3eu059
+  tags:
+    kr-categories: KR3eu
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eu059.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eu059_000-jc.yaml, hash: 'sha256:a850f612ebc4edcbcf4a49c6a5c603a5e91af0b19dd6b9a321615ffa90008de4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eu059_000-jc.markers.yaml, hash: 'sha256:980b3ec6d328b757128d930fa1f2f0a030277d4c699cafdca9025d22693dc476'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 341
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d3.h1s1
+    span:
+    - body
+    - 341
+    - 868
+  label: 第一章定形
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d4.h1s1
+    span:
+    - body
+    - 868
+    - 1335
+  label: 第二章古今針之種類
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d5.h1s1
+    span:
+    - body
+    - 1335
+    - 1947
+  label: 第三章銀針及金針之性質
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d5d2
+    span:
+    - body
+    - 1346
+    - 1678
+  label: 第一款銀
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d5d3
+    span:
+    - body
+    - 1678
+    - 1947
+  label: 第二款黃金
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d6.h1s1
+    span:
+    - body
+    - 1947
+    - 2090
+  label: 第四章針之區別及名稱
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d7.h1s1
+    span:
+    - body
+    - 2090
+    - 2262
+  label: 第五章針洗潔法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d8.h1s1
+    span:
+    - body
+    - 2262
+    - 2398
+  label: 第六章針貯藏法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d9.h1s1
+    span:
+    - body
+    - 2398
+    - 2565
+  label: 第七章針頭硎磨法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d10.h1s1
+    span:
+    - body
+    - 2565
+    - 2706
+  label: 第八章制針番數之理由
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d11.h1s1
+    span:
+    - body
+    - 2706
+    - 2845
+  label: 第九章記號配點
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d12.h1s1
+    span:
+    - body
+    - 2845
+    - 3304
+  label: 第十章刺針一般
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d13.h1s1
+    span:
+    - body
+    - 3304
+    - 3665
+  label: 第十一章正式及變式
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d13d6
+    span:
+    - body
+    - 3459
+    - 3530
+  label: 第一款正式
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d13d7
+    span:
+    - body
+    - 3530
+    - 3665
+  label: 第二款變式
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d14.h1s1
+    span:
+    - body
+    - 3665
+    - 3894
+  label: 第十二章補法及瀉法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d15.h1s1
+    span:
+    - body
+    - 3894
+    - 4086
+  label: 第十三章被黏著牽引拔針法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d16.h1s1
+    span:
+    - body
+    - 4086
+    - 4227
+  label: 第十四章不可施針症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d17.h1s1
+    span:
+    - body
+    - 4227
+    - 4346
+  label: 第十五章折針拔取法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d18.h1s1
+    span:
+    - body
+    - 4346
+    - 4697
+  label: 第十六章刺針禁局
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d18d4
+    span:
+    - body
+    - 4378
+    - 4441
+  label: 第一款頭首
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d18d5
+    span:
+    - body
+    - 4441
+    - 4465
+  label: 第二款顏面
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d18d6
+    span:
+    - body
+    - 4465
+    - 4502
+  label: 第三款胸部
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d18d7
+    span:
+    - body
+    - 4502
+    - 4546
+  label: 第四款腹部
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d18d8
+    span:
+    - body
+    - 4546
+    - 4574
+  label: 第五款脊柱
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d18d9
+    span:
+    - body
+    - 4574
+    - 4666
+  label: 第六款上肢
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d18d10
+    span:
+    - body
+    - 4666
+    - 4697
+  label: 第七款
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d19.h1s1
+    span:
+    - body
+    - 4697
+    - 4899
+  label: 第十七章筋肉揉按
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d20.h1s1
+    span:
+    - body
+    - 4899
+    - 5114
+  label: 第十八章螺旋管之用法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu059_jc_000-d21.h1s1
+    span:
+    - body
+    - 5114
+    - 5502
+  label: 第十九章針頭電氣力與導法
+  type: section
+  level: 1
+hash: sha256:7ab71a56f855b175f0215205d3f8f3eae6bbee876fe1487866d6b8ab5e3326dc
