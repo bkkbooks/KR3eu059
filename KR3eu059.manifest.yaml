@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eu059_000.yaml, hash: 'sha256:574a41fe4a9e18e5b3255336c8c2ab2105ec1e2ff8fbcce72b7a174d5ea13353'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eu059_000.markers.yaml, hash: 'sha256:b6bb4ddbc527bc545e4fcd54f3bcfefddd57eeb22546fcd8d8bb75d0ce31a597'}
+  - {seq: 0, role: markers, filename: assets/KR3eu059_000.markers.yaml, hash: 'sha256:bfc05a9656d69e9db4e563c71b2c6d886f21b2d2bc3ebdf73f31e39f30be1f11'}
 table_of_contents:
 - ref:
     seq: 0
@@ -330,7 +330,7 @@ table_of_contents:
   label: 第十九章針頭電氣力與導法
   type: section
   level: 1
-hash: sha256:ff7fa1034a10a8b34b13f6b95600690a8229179f707c639caa44d38b0c69f7a6
+hash: sha256:01b24e5c61cfb5e92ffadbc045931d31cf40444e7696eaad6245ebb309161a6a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eu059_000-jc.yaml, hash: 'sha256:a850f612ebc4edcbcf4a49c6a5c603a5e91af0b19dd6b9a321615ffa90008de4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eu059_000-jc.markers.yaml, hash: 'sha256:980b3ec6d328b757128d930fa1f2f0a030277d4c699cafdca9025d22693dc476'}
+  - {seq: 0, role: markers, filename: assets/KR3eu059_000-jc.markers.yaml, hash: 'sha256:0c7ef9356d72ac59cd52ce4832c24d8355f2e2cb4cd3b7d752705dd6751c4d19'}
 table_of_contents:
 - ref:
     seq: 0
@@ -330,4 +330,4 @@ table_of_contents:
   label: 第十九章針頭電氣力與導法
   type: section
   level: 1
-hash: sha256:7ab71a56f855b175f0215205d3f8f3eae6bbee876fe1487866d6b8ab5e3326dc
+hash: sha256:7947d4302502651f50cee44f1a2345749c7c5980d4fa25cc7bd49bee0a55c2fe
